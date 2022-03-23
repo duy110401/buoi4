@@ -1,0 +1,33 @@
+body{
+	font-family:Arial;
+	font-size: 11pt;
+}
+th{
+	font-size:16pt;
+	background: blue;
+	color: #ffffff;
+	}
+table{
+border-collapse: collapse;
+border : 1px ;
+background: silver;
+
+}
+td{
+padding : 5px;
+}
+input{
+padding: 5px;
+border: 1px dotted #3366ff;
+background: #99ccffc4;
+}
+select{
+padding: 5px;
+border: 1px dotted #3366ff;
+background: #99ccffc4;
+}
+textarea{
+padding: 5px;
+border: 1px dotted #3366ff;
+background: #99ccffc4;
+}
